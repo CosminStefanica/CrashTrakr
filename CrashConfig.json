@@ -1,0 +1,20 @@
+{
+	"ServerLink":"http://your-jenkins-server-here:PORT/job/",
+	"Projects":[
+	{
+		"Code":"Code1",
+		"Link":"ProjectLinkCode1",
+		"BuildToken":""
+	},
+	{
+		"Code":"Code2",
+		"Link":"ProjectLinkCode2",
+		"BuildToken":""
+	},
+	{
+		"Code":"Code3",
+		"Link":"ProjectLinkCode3",
+		"BuildToken":""
+	}
+	]
+}
